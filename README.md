@@ -7,6 +7,13 @@ Monopoly Team Repo for Term Project CSCI 234
 This project is a adaptation of the classic Monopoly board game, developed as a term project for CSCI 234. It allows
 multiple players to engage in the game, simulating property trading, rent payments, and strategic financial planning.
 
+## Contributors
+
+- **Giovanny Teran** - TeranG@moravian.edu
+- **Jamell Alvarez** - alvarezj@moravian.edu
+- **Matthew Kraus** - Krausm@moravian.edu
+- **Deborah Rabinovich** - rabinovichd@moravian.edu
+
 ## Installation and Setup
 
 ### Prerequisites
@@ -69,14 +76,6 @@ Before running the project, ensure you have the following installed:
 
 ## Progress Report
 The majority of the project works correctly. The way that some of the controllers are implemented causes the gameplay when inside of the GUI to be incorrect. While the logic of the actual game passes all of the tests, that implementation still needs adjustment.
-
-## Contributors
-
-- **Giovanny Teran** - TeranG@moravian.edu
-- **Jamell Alvarez** - alvarezj@moravian.edu
-- **Matthew Kraus** - Krausm@moravian.edu
-- **Deborah Rabinovich** - rabinovichd@moravian.edu
- 
 
 ## License
 
