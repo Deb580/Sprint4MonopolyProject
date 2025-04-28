@@ -59,12 +59,22 @@ Before running the project, ensure you have the following installed:
 - Use on-screen buttons to roll dice, manage properties, and end turns.
 - Follow in-game prompts for specific actions.
 
+## Design Patterns used
+**Model, View, Control design pattern** as the pattern for the entire project. There is a seperation of concerns between each componenet which has its own responsibilities. 
+- Model: Handles all game data 
+- View: Graphical User Interface
+- Controller: Bridges Model and View
+**Singleton Pattern** is used in the Banker, GameBoard, Deck, Dice, and Game
+
 ## Contributors
 
 - **Giovanny Teran** - TeranG@moravian.edu
 - **Jamell Alvarez** - alvarezj@moravian.edu
 - **Matthew Kraus** - Krausm@moravian.edu
 - **Deborah Rabinovich** - rabinovichd@moravian.edu
+
+## Progress Report
+The majority of the project works correctly. The way that some of the controllers are implemented causes the gameplay when inside of the GUI to be incorrect. While the logic of the actual game passes all of the tests, that implementation still needs adjustment. 
 
 ## License
 
