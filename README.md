@@ -64,7 +64,11 @@ Before running the project, ensure you have the following installed:
 - Model: Handles all game data 
 - View: Graphical User Interface
 - Controller: Bridges Model and View
+
 **Singleton Pattern** is used in the Banker, GameBoard, Deck, Dice, and Game
+
+## Progress Report
+The majority of the project works correctly. The way that some of the controllers are implemented causes the gameplay when inside of the GUI to be incorrect. While the logic of the actual game passes all of the tests, that implementation still needs adjustment.
 
 ## Contributors
 
@@ -72,9 +76,7 @@ Before running the project, ensure you have the following installed:
 - **Jamell Alvarez** - alvarezj@moravian.edu
 - **Matthew Kraus** - Krausm@moravian.edu
 - **Deborah Rabinovich** - rabinovichd@moravian.edu
-
-## Progress Report
-The majority of the project works correctly. The way that some of the controllers are implemented causes the gameplay when inside of the GUI to be incorrect. While the logic of the actual game passes all of the tests, that implementation still needs adjustment. 
+ 
 
 ## License
 
